@@ -1,0 +1,31 @@
+a {
+	color: $color__link;
+
+	&:visited {
+		color: $color__link-visited;
+	}
+	&:hover,
+	&:focus,
+	&:active {
+		color: $color__link-hover;
+		
+	}
+	&:focus {
+		outline: thin dotted;
+	}
+	&:hover,
+	&:active {
+		outline: 0;
+		text-decoration: none;
+	}
+	&[href$=".pdf"]:after {
+	content:url(images/pdf_button.png);
+	}
+
+}
+li.current-menu-item a {
+	color: #660000;
+}
+li.current-menu-item ul li a {
+	color: initial;
+}

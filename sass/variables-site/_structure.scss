@@ -1,0 +1,77 @@
+$size__site-main: 100%;
+$size__site-sidebar: 25%;
+
+$size__site-container: 980px;
+$size__gutter: 20px;
+
+.site-header {
+    position: relative;
+    margin: 0px auto;
+    background: #f1f1da url(images/header_bg.gif) repeat-x;
+    padding: 0 0 0 $size__gutter;
+}
+.site-branding{
+	background: url(images/header-bg.jpg) no-repeat;
+    height: 158px;
+    max-width: $size__site-container;
+    margin: auto;
+}
+.site-content{
+	max-width: $size__site-container;
+	margin: auto;
+	padding: 0 $size__gutter;
+}
+.site-footer{
+	background-color: #b5b690;
+	color: $color__footer;
+}
+.site-info{
+	max-width: $size__site-container;
+	margin: auto;
+	padding: 10px 50px 30px 50px;	
+}
+.site-info p{
+	float: left;
+	margin: 0;
+}
+.site-info:after{
+	content: "";
+	display: block;
+	clear: both;
+}
+.logo{
+	width: 105px;
+	height: 100%;
+	float: left;
+}
+
+@media all and (min-width: 1024px){
+	.site-header{padding: 0;}
+	.site-content{
+		padding: 0;
+	}
+		.site-info{
+		padding-left: 0;
+		padding-right: 0;	
+	}
+} 
+@media all and (min-width: 37.5em) {
+/* == 600px */
+	.content-area{
+		float: right; 
+		width: 73%;
+	}
+	.site-content{
+		min-height: 500px;
+	}
+
+	.separator {height: 10em;}
+}
+@media all and (min-width: 540px){
+	.header-text{
+		background: url(images/header-text.png) no-repeat;
+	    height: 87px;
+	    width: 398px;
+	    margin-left: 22%;
+	}
+}

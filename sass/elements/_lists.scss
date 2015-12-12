@@ -1,0 +1,35 @@
+ul {
+	margin: 0 0 1.5em 3em;
+}
+
+ul {
+	list-style: disc;
+}
+
+ol {
+	margin: 5px 0;
+    background-color: transparent;
+    padding: 0 0 0 20px;
+}
+
+li > ul,
+li > ol {
+	margin-bottom: 0;
+	margin-left: 1.5em;
+}
+
+dt {
+	font-weight: bold;
+}
+
+dd {
+	margin: 0 1.5em 1.5em;
+}
+.page-id-56 {
+		h3 {
+	    font-family: "helvetica neue", helvetica, arial, verdana, sans-serif;
+	    padding: 8px 0 4px 0;
+	    color: #46462b;
+    	font-size: 1.1em;
+	}
+}

@@ -1,0 +1,9 @@
+@media all and (min-width: 769px) {
+  .main-navigation {
+    width: 21.5%;
+  }
+  .content-area {
+    float: right;
+    width: 75%;
+  }
+}

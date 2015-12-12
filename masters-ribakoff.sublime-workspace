@@ -1,0 +1,230 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"backg",
+				"background-position"
+			],
+			[
+				"feed",
+				"feedcount"
+			],
+			[
+				"footer",
+				"footer-menu"
+			],
+			[
+				"p",
+				"php"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/SASS Build/SASS.sublime-build",
+	"command_palette":
+	{
+		"height": 127.0,
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 547.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/vvv/www/wordpress-default/wp-content/themes/listify/functions.php",
+		"/D/vvv/www/wordpress-default/wp-content/themes/listify/header.php",
+		"/D/vvv/www/wordpress-default/wp-content/themes/listify-child/functions.php",
+		"/D/vvv/www/wordpress-default/wp-content/themes/listify/index.php",
+		"/D/vvv/www/wordpress-default/wp-content/themes/listify/inc/widgets/class-widget-home-feature-callout.php",
+		"/D/vvv/www/wordpress-default/wp-content/themes/listify/css/style.min.css",
+		"/D/vvv/www/wordpress-default/wp-content/themes/listify/js/source/app-features-widget-admin.js",
+		"/D/vvv/www/wordpress-default/wp-content/themes/listify/inc/widgets/class-widget-home-features.php",
+		"/C/Users/Geea/Desktop/anim/style.css",
+		"/C/Users/Geea/Desktop/anim/index.htm",
+		"/D/vvv/www/wordpress-default/wp-content/themes/listify/style.css",
+		"/D/vvv/www/wordpress-default/wp-content/themes/listify/js/source/app.js",
+		"/D/vvv/www/wordpress-default/wp-content/themes/listify/js/source/app-features-widget-admin-new.js",
+		"/D/vvv/www/wordpress-default/wp-content/themes/listify/content-home-feature.php",
+		"/D/vvv/www/wordpress-default/wp-content/themes/mmedia/style.css",
+		"/D/vvv/www/wordpress-default/wp-content/themes/mmedia/sass/variables-site/_colors.scss",
+		"/D/vvv/www/wordpress-default/wp-content/themes/mmedia/header.php",
+		"/D/vvv/www/wordpress-default/wp-content/themes/mmedia/front-page.php",
+		"/D/vvv/www/wordpress-default/wp-content/themes/mmedia/sass/navigation/_menus.scss",
+		"/D/vvv/www/wordpress-default/wp-content/themes/mmedia/sass/navigation/_links.scss",
+		"/D/vvv/www/wordpress-default/wp-content/themes/mmedia/sass/style.scss",
+		"/D/vvv/www/wordpress-default/wp-content/themes/mmedia/sass/style.css.map",
+		"/D/vvv/www/wordpress-default/wp-content/themes/mmedia/sass/style.css",
+		"/C/Users/Geea/Documents/GitHub/2parale/save-feed.php",
+		"/C/Users/Geea/Documents/GitHub/2parale/inc/functions.php",
+		"/C/Users/Geea/Documents/GitHub/2parale/index.php",
+		"/C/Users/Geea/Documents/GitHub/2parale/progress.php",
+		"/C/Users/Geea/Documents/GitHub/rezi/themes/genesis-rezi/taxonomy.php",
+		"/C/Users/Geea/Documents/GitHub/rezi/themes/genesis-rezi/archive-listing.php",
+		"/C/Users/Geea/AppData/Local/Temp/scp35687/public_html/rezidential.net/new/wp-content/themes/genesis-rezi/taxonomy.php",
+		"/C/Users/Geea/Documents/GitHub/SlickNav/demo/index.html",
+		"/C/Users/Geea/Documents/GitHub/vsmag/category-vsmag-tv.php",
+		"/C/Users/Geea/Documents/GitHub/vsmag/functions.php",
+		"/C/Users/Geea/Documents/GitHub/vsmag/footer.php",
+		"/C/Users/Geea/Documents/GitHub/vsmag/parts/vs-films.php",
+		"/C/Users/Geea/Documents/GitHub/vsmag/js/custom/readmore.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"D:\\vvv\\www\\wordpress-default\\wp-content\\themes\\listify"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"template-home",
+			"data-columns",
+			"col-md-4",
+			"data-column",
+			"md",
+			"naviga",
+			"header",
+			"section",
+			"entry-c",
+			"artic",
+			"separa",
+			"credits",
+			"field"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
